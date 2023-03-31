@@ -10,4 +10,4 @@ J'ai installé l'extension Elementor pour faciliter la création des pages.
 J'ai installé l'extension Woocommerce pour gerer les produits et les categories.
 J'ai installé l'extension Stripe pour effectuer les achats en ligne
 ## Installation de thème
-J'ai installé le thème envo-ecommerce
+J'ai installé le thème coffee shop corner
