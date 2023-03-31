@@ -1,5 +1,3 @@
-# Lien du projet
-
 
 ## Installation de WordPress
 J'ai telecharger le dossier zip de WordPress et j'ai creé un nouveau dossier dont j'ai mis le dossier wordpress
